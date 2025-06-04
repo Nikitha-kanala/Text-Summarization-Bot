@@ -77,9 +77,8 @@ Artificial Intelligence enables machines to mimic human intelligence, adapt to n
 ## 👩‍💻 Author
 
 Made with ❤️ by **Nikitha Kanala**  
-www.linkedin.com/in/
-nikitha-kanala-834305293
-Vanity URL name
+[LinkedIn Profile](https://www.linkedin.com/in/nikitha-kanala-834305293/)
+
 
 
 ---
